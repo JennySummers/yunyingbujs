@@ -1,0 +1,106 @@
+body{
+	background-image: url(./image1/im1.jpg);
+	background-repeat: repeat-y;
+	background-size: 1400px 700px;
+}
+h1{
+	text-align: center;
+	background-color: #6495ED;
+	font-size: 54px;
+	font-weight: 900;
+	outline-style: outset;
+	outline-color: #4169E1;
+	outline-width: 10;
+}
+div.fil p{
+	text-align: center;
+	font-size: 24px;
+	font-weight: 300;
+}
+table.t1{
+	margin: 10px auto;
+	width: 80%;
+	height: 100px;
+	text-align: center;
+	font-size: 38px;
+	font-weight: 100;
+}
+table.t2{
+	margin: 10px auto;
+	width: 80%;
+	height: 100px;
+	font-size: 24px;
+	font-weight: 100;
+}
+table.t3{
+	margin: 10px auto;
+	width: 80%;
+	font-size: 24px;
+	font-weight: 100;
+}
+td
+{
+	padding: 15px;
+	filter: alpha(opacity:50);
+	opacity: 0.77;
+}
+th
+{
+	background-image: url(./image1/im6.jpg);
+	background-repeat: no-repeat;
+	background-size: 1200px 50px;
+	font-size: 38px;
+}
+div.tab1{
+	text-align: center;
+	background-image: url(./image1/im7.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px 80px;
+	background-position: center;
+	filter: alpha(opacity:50);
+	opacity: 0.77;
+}
+div.tab1:hover{
+	background-image: url(./image1/im8.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px 80px;
+	background-position: center;
+	filter: alpha(opacity:50);
+	opacity: 0.77;
+}
+a:link { 
+color:#000033; 
+text-decoration:underline; 
+} 	
+/*div.bgi
+{
+	background-image: url(./image1/im2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 800px 300px;
+	filter:alpha(opacity=30);
+	opacity:0.6;
+}
+img
+{
+opacity:0.4;
+filter:alpha(opacity=40); 
+}
+img:hover
+{
+opacity:1.0;
+filter:alpha(opacity=100); 
+}
+<table class="t1" border="1">
+<tr>
+<td bgcolor="#99FFFF">网管处</td>
+</tr>
+<tr>
+<td bgcolor="#77DDFF">策划处</td>
+</tr>
+<tr>
+<td bgcolor="#99BBFF">应用处</td>
+</tr>
+</table>
+*/
+
